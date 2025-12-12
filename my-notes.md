@@ -10,7 +10,6 @@ AI technologies can significantly improve efficiency for teachers by **automatin
 AI has the potential to make education more **accessible and inclusive**. Features such as real-time language translation, text-to-speech, and speech-to-text tools help support students with different linguistic backgrounds and learning disabilities. For students with visual, hearing, or cognitive impairments, AI-based assistive technologies can remove barriers to learning. These tools help ensure that a wider range of students can participate fully in educational environments.
 ### Closing Learning Gaps in Underserved Areas
 In many underserved or remote regions, access to quality education and one-on-one tutoring is limited. AI-powered tutoring systems can provide consistent, personalized support to students regardless of their geographic location. By offering targeted feedback and practice, AI can help address learning gaps .This makes AI especially valuable in regions where teacher shortages or limited resources exist.
----
 ## 4. Risks and Challenges of AI in Education
 ### Academic Integrity and Cheating
 One major concern surrounding AI in education is its impact on **academic integrity**. AI tools can easily generate essays, homework answers, and exam solutions, which may encourage plagiarism or misuse. AI can reduce students’ motivation to think critically and develop independent problem-solving skills. Educational institutions may need to redesign assessment methods to ensure that learning remains authentic and meaningful.
