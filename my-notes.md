@@ -1,8 +1,8 @@
 # Research
 
-## 1. What the AI‑in‑Education Event Is
+# What the AI‑in‑Education Event Is
 
-### AI Transforming Learning
+## 1. AI Transforming Learning
 AI is changing the way students learn. Imagine having a personal tutor available anytime, giving feedback, and adjusting lessons to your pace. AI in education makes learning smarter and more personal, while helping teachers spend more time mentoring students instead of doing paperwork.
 
 ### El Salvador’s AI‑Powered Nationwide Education Program
