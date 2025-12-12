@@ -1,5 +1,21 @@
 # Research
 
+## 1. What the AI‑in‑Education Event Is
+
+### AI Transforming Learning
+AI is changing the way students learn. Imagine having a personal tutor available anytime, giving feedback, and adjusting lessons to your pace. AI in education makes learning smarter and more personal, while helping teachers spend more time mentoring students instead of doing paperwork.
+
+### El Salvador’s AI‑Powered Nationwide Education Program
+El Salvador recently announced a partnership with the AI company xAI, using their AI system Grok to help students learn. Over 5,000 public schools and 1 million students will now have access to AI tutors. Each student will get lessons that adapt to their learning pace and style, giving a truly personalized experience. This is being called the first nationwide AI education program, and it’s a big step toward modernizing education worldwide
+
+## 2. How AI Is Used in Education
+
+### Personalized Learning for Students
+AI is already helping students worldwide. It can create personalized lessons, provide adaptive tutoring, and give real time feedback. Unlike traditional classrooms, where all students follow the same schedule, AI allows each student to learn at their own speed and focus on the topics they need most.
+
+### Supporting Teachers
+Teachers also benefit from AI. It can automate grading, generate practice questions, and quickly identify students who need extra help. This means teachers can spend more time mentoring and guiding students, instead of spending hours on administrative tasks.
+
 
 # Benefits of AI in Education
 **Personalized Learning Experiences**
